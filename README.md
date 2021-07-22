@@ -1,2 +1,2 @@
 # Face-Recognition
- Face Recognition using ML algorithms.
+ Face Recognition using ML algorithms .
