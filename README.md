@@ -8,4 +8,5 @@
 
 # Explaination
  Using Face Recognition Algorithm detect the face and create a bounding box around the face.
- and comapre both the images.
+ And comapre both the images.
+ If both the images are same then it will print True otherwise it will print False.
