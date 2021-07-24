@@ -8,4 +8,4 @@
 
 # Explaination
  Using Face Recognition Algorithm detect the face and create a bounding box around the face.
-
+ and comapre both the images.
